@@ -24,7 +24,7 @@
 - формат выходных
 
 # Инструкция запуска :
-## Через gcc :
+## GCC :
 Необходимое ПО: компилятор gcc, git.
 ```console
 example@user:~/$ git clone https://github.com/AlekseiYuzhanin/radar_battleship_task/
