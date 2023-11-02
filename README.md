@@ -25,7 +25,7 @@
 
 # Инструкция запуска :
 ## Через gcc :
-Необходимое ПО: компилятор gcc.
+Необходимое ПО: компилятор gcc, git.
 ```console
 example@user:~/$ git clone https://github.com/AlekseiYuzhanin/radar_battleship_task/
 example@user:~/$ cd radar_first_radar_battleship_task
@@ -34,7 +34,7 @@ example@user:~/radar_battleship_task$ ./<название приложения>
 
 ```
 ## Makefile :
-Необходимое ПО: Make, компилятор g++
+Необходимое ПО: Make, компилятор g++, git.
 ```console
 example@user:~/$ git clone https://github.com/AlekseiYuzhanin/radar_battleship_task/
 example@user:~/$ cd radar_first_radar_battleship_task
